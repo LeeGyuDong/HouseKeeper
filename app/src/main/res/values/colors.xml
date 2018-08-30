@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#730015</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMain">#c6ffffff</color>
+    <color name="colorLogo">#b90138</color>
+    <color name="TransColorLogo">#9ea80234</color>
+    <color name="icon_disable_back">#aa000000</color>
+    <color name="setting_grey">#aaaaaa</color>
+    <color name="setting_blue">#4472c3</color>
+    <color name="setting_green">#70ac47</color>
+    <color name="setting_yellow">#fdbf01</color>
+    <color name="setting_red">#bf0001</color>
+</resources>
